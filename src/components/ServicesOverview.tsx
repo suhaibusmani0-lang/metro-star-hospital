@@ -10,7 +10,7 @@ const dentalServices = [
 
 const cosmeticServices = [
   { icon: Sun, title: "Hydra Facial", desc: "Deep skin rejuvenation for a radiant, hydrated, youthful glow." },
-  { icon: Syringe, title: "PRP Treatment", desc: "Platelet-rich plasma therapy for hair restoration and skin renewal." },
+  { icon: Syringe, title: "PRP Treatment", desc: "Platelet-rich plasma therapy for hair restoration and skin renewal.Prp or prf in chronic periodontitis patient with bone graft for bone regeneration or bone formation for teeth strength" },
   { icon: Sparkles, title: "Botox & Fillers", desc: "Non-surgical cosmetic enhancements for a naturally refreshed look." },
 ];
 

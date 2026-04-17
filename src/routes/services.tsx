@@ -13,7 +13,7 @@ const dental = [
 
 const cosmetic = [
   { icon: Sun, title: "Hydra Facial", desc: "Multi-step facial treatment combining cleansing, exfoliation, extraction, hydration, and antioxidant protection for radiant skin." },
-  { icon: Syringe, title: "PRP Therapy", desc: "Platelet-rich plasma treatment for hair loss, skin rejuvenation, and anti-aging. Natural, safe, and effective." },
+  { icon: Syringe, title: "PRP Therapy", desc: "Platelet-rich plasma treatment for hair loss, skin rejuvenation, and anti-aging. Natural, safe, and effective ." },
   { icon: Sparkles, title: "Botox & Dermal Fillers", desc: "Non-surgical cosmetic enhancements for wrinkle reduction, lip augmentation, and facial contouring." },
 ];
 
