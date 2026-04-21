@@ -48,7 +48,7 @@ export function Header() {
           <div className="flex items-center gap-2">
             <a href="tel:+919990098258" className="hidden sm:flex items-center gap-1 text-sm text-muted-foreground hover:text-primary transition-colors">
               <Phone className="h-4 w-4" />
-              <span>+91 88009 08228</span>
+              <span>+91 99900 98258</span>
             </a>
             <a
               href="https://wa.me/919990098258?text=Hi%20Dr.%20Bushra%2C%20I%20would%20like%20to%20book%20an%20appointment."

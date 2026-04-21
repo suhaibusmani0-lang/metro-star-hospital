@@ -40,7 +40,7 @@ export function Footer() {
             <div className="space-y-3">
               <a href="tel:+919990098258" className="flex items-start gap-2 text-sm text-primary-foreground/70 hover:text-primary-foreground transition-colors">
                 <Phone className="h-4 w-4 mt-0.5 shrink-0" />
-                +91 88009 08228
+                +91 99900 98258
               </a>
               <a href="mailto:drbushradentist@gmail.com" className="flex items-start gap-2 text-sm text-primary-foreground/70 hover:text-primary-foreground transition-colors">
                 <Mail className="h-4 w-4 mt-0.5 shrink-0" />

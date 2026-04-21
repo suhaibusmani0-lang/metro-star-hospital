@@ -6,9 +6,9 @@ export const Route = createFileRoute("/contact")({
   head: () => ({
     meta: [
       { title: "Contact – Metro Star Hospital, Okhla Vihar New Delhi" },
-      { name: "description", content: "Contact Metro Star Hospital. Address: C13, Okhla Vihar Main Rd, Jamia Nagar, New Delhi 110025. Phone: +91 88009 08228. Email: drbushradentist@gmail.com." },
+      { name: "description", content: "Contact Metro Star Hospital. Address: C13, Okhla Vihar Main Rd, Jamia Nagar, New Delhi 110025. Phone: +91 99900 98258. Email: drbushradentist@gmail.com." },
       { property: "og:title", content: "Contact Metro Star Hospital" },
-      { property: "og:description", content: "Book your appointment at Metro Star Hospital, Okhla Vihar. Call +91 88009 08228." },
+      { property: "og:description", content: "Book your appointment at Metro Star Hospital, Okhla Vihar. Call +91 99900 98258." },
     ],
   }),
   component: ContactPage,
@@ -33,7 +33,7 @@ function ContactPage() {
                 </div>
                 <div>
                   <p className="text-sm font-semibold text-foreground">Phone</p>
-                  <p className="text-sm text-muted-foreground group-hover:text-primary transition-colors">+91 88009 08228</p>
+                  <p className="text-sm text-muted-foreground group-hover:text-primary transition-colors">+91 99900 98258</p>
                 </div>
               </a>
               <a href="mailto:drbushradentist@gmail.com" className="flex items-start gap-4 group">
