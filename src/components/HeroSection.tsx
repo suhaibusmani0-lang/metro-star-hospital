@@ -19,7 +19,7 @@ export function HeroSection() {
               BDS, MDS – Periodontist and Implantologist
             </p>
             <p className="mt-4 text-base text-muted-foreground max-w-lg leading-relaxed">
-              Trusted dental surgon in Okhal — offering painless root canal treatment, dental implants, cosmetic treatment, Hydra Facials, PRP, and Botox at Metro Star Hospital, Jamia Nagar.
+              Trusted dental surgon in Okhla — offering painless root canal treatment, dental implants, cosmetic treatment, Hydra Facials, PRP, and Botox at Metro Star Hospital, Jamia Nagar.
             </p>
 
             {/* Trust badges */}
