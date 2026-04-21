@@ -6,7 +6,7 @@ export const Route = createFileRoute("/about")({
   head: () => ({
     meta: [
       { title: "About Dr. Bushra Shams – Periodontist and Implantologist, Metro Star Hospital" },
-      { name: "description", content: "Dr. Bushra Shams (BDS, MDS) – Periodontist and Implantologist in Okhla with 10+ years experience. Specializing in implants, gum surgery, and cosmetic treatment." },
+      { name: "description", content: "Dr. Bushra Shams (BDS, MDS) – Periodontist and Implantologist in Okhla Delhiwith 10+ years experience. Specializing in implants, gum surgery, and cosmetic treatment." },
       { property: "og:title", content: "Dr. Bushra Shams – About" },
       { property: "og:description", content: "Periodontist and Implantologist with 10+ years of experience in dental implants, gum surgery, and cosmetic treatment." },
     ],
@@ -35,7 +35,7 @@ function AboutPage() {
 
             <div className="mt-6 space-y-4 text-muted-foreground leading-relaxed">
               <p>
-                Dr. Bushra Shams is a highly qualified Periodontist and Implantologist, and the lead dental surgeon at Metro Star Hospital, Okhla Vihar. With over a decade of clinical experience, she is recognized as one of the best dentists in Okhla and South Delhi.
+                Dr. Bushra Shams is a highly qualified Periodontist and Implantologist, and the lead dental surgeon at Metro Star Hospital, Okhla Vihar. With over a decade of clinical experience, she is recognized as one of the best dentists in Okhla Delhiand South Delhi.
               </p>
               <p>
                 She specializes in dental implants, advanced periodontal surgery, painless root canal treatment, and cosmetic dentistry. Her patient-first approach and gentle care have earned her a 4.8+ Google rating with thousands of happy patients.
