@@ -39,13 +39,13 @@ export function HeroSection() {
             {/* CTA */}
             <div className="flex flex-wrap gap-3 mt-8 animate-fade-up-delay">
               <a
-                href="https://wa.me/918800908228?text=Hi%20Dr.%20Bushra%2C%20I%20would%20like%20to%20book%20an%20appointment."
+                href="https://wa.me/919990098258?text=Hi%20Dr.%20Bushra%2C%20I%20would%20like%20to%20book%20an%20appointment."
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <Button variant="cta" size="xl">Book Appointment</Button>
               </a>
-              <a href="tel:+918800908228">
+              <a href="tel:+919990098258">
                 <Button variant="outline" size="xl">Call Now</Button>
               </a>
             </div>

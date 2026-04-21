@@ -27,7 +27,7 @@ function ContactPage() {
           {/* Contact Info + Map */}
           <div className="space-y-8">
             <div className="space-y-5">
-              <a href="tel:+918800908228" className="flex items-start gap-4 group">
+              <a href="tel:+919990098258" className="flex items-start gap-4 group">
                 <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg bg-primary/10 text-primary">
                   <Phone className="h-5 w-5" />
                 </div>
