@@ -5,7 +5,7 @@ const testimonials = [
     name: "Ayesha Khan",
     treatment: "Dental Implants",
     rating: 5,
-    text: "Dr. Bushra is hands down the Trusted dental surgon in Okhla. My implant procedure was completely painless and the results look so natural. Highly recommend Metro Star Hospital!",
+    text: "Dr. Bushra is hands down the Trusted dental surgeon in Okhla. My implant procedure was completely painless and the results look so natural. Highly recommend Metro Star Hospital!",
   },
   {
     name: "Mohammed Faraz",

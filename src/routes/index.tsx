@@ -10,12 +10,12 @@ import { TestimonialsSection } from "@/components/TestimonialsSection";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Metro Star Hospital – Trusted dental surgon in Okhla Delhi| Dr. Bushra Shams" },
-      { name: "description", content: "Trusted dental surgon in Okhla DelhiVihar. Dr. Bushra Shams (BDS, MDS) – Periodontist and Implantologist offering painless RCT, dental implants, Hydra Facial, PRP, Botox at Metro Star Hospital, Jamia Nagar, New Delhi 110025." },
+      { title: "Metro Star Hospital – Trusted dental surgeon in Okhla Delhi| Dr. Bushra Shams" },
+      { name: "description", content: "Trusted dental surgeon in Okhla DelhiVihar. Dr. Bushra Shams (BDS, MDS) – Periodontist and Implantologist offering painless RCT, dental implants, Hydra Facial, PRP, Botox at Metro Star Hospital, Jamia Nagar, New Delhi 110025." },
       { property: "og:title", content: "Metro Star Hospital – Dental & Cosmetic Care" },
       { property: "og:description", content: "Advanced dental implants, painless RCT, cosmetic treatment, Hydra Facial & PRP by Periodontist and Implantologist Dr. Bushra Shams in Okhla DelhiVihar." },
       { property: "og:type", content: "website" },
-      { name: "keywords", content: "Trusted dental surgon in Okhla, Dental Implants Jamia Nagar, MDS Periodontist South Delhi, Painless RCT Okhla Vihar, Hydra Facial Jamia Nagar, PRP Treatment Okhla, Botox New Delhi" },
+      { name: "keywords", content: "Trusted dental surgeon in Okhla, Dental Implants Jamia Nagar, MDS Periodontist South Delhi, Painless RCT Okhla Vihar, Hydra Facial Jamia Nagar, PRP Treatment Okhla, Botox New Delhi" },
     ],
   }),
   component: HomePage,

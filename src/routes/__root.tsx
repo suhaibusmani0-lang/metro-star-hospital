@@ -35,7 +35,7 @@ export const Route = createRootRoute({
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
       { title: "Metro Star Hospital – Dental & Cosmetic Care | Okhla Vihar" },
-      { name: "description", content: "Trusted dental surgon in Okhla. Dr. Bushra Shams (BDS, MDS) – dental implants, painless RCT, Hydra Facial, PRP, Botox at Metro Star Hospital, Jamia Nagar, New Delhi 110025." },
+      { name: "description", content: "Trusted dental surgeon in Okhla. Dr. Bushra Shams (BDS, MDS) – dental implants, painless RCT, Hydra Facial, PRP, Botox at Metro Star Hospital, Jamia Nagar, New Delhi 110025." },
       { name: "author", content: "Metro Star Hospital" },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
