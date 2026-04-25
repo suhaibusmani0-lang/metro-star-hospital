@@ -5,6 +5,7 @@ const images = [
   { src: "/images/clinic-reception.jpg", alt: "Metro Star Hospital reception area and pharmacy" },
   { src: "/images/clinic-dental-chair.jpg", alt: "Advanced dental treatment room at Metro Star Hospital" },
   { src: "/images/dr-bushra.jpg", alt: "Dr. Bushra Shams in her consultation office" },
+  { src: "/images/dr-bushraboard.jpeg", alt: "Nayi photo ka description yahan likhein" }, 
 ];
 
 export const Route = createFileRoute("/gallery")({
